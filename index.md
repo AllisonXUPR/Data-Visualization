@@ -6,11 +6,11 @@
 
 
 
-# Data visualization
+### Data visualization
 [View or download slides](https://docs.google.com/presentation/d/1NYSMpfr50f7f69EomiUDlBcFOrogYgO5pexAr60dRsQ/edit?usp=sharing)
 
 
-# Exercise 1 (20 minutes)
+### Exercise 1 (20 minutes)
 In this exercise you will select one project listed below and answer several questions.
 - Pedro Cruz, John Wihbey, Avni Ghael, and Felipe Shibuya. [A tree for U.S. immigration](https://web.northeastern.edu/naturalizing-immigration-dataviz/)
 - MIT Senseable City Lab. [Treepedia](http://senseable.mit.edu/treepedia/cities/boston) 
@@ -30,7 +30,7 @@ In this exercise you will select one project listed below and answer several que
 
 
 
-# Exercise 2 (15 minutes)
+### Exercise 2 (15 minutes)
 
 Consider your own research or pedagogical needs. What type of question(s) or arguments can you make with a spatial visualization? Reflect on these and other questions while drawing or sketching out a dataset, map, or other visualization.
 
