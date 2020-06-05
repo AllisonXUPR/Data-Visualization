@@ -7,7 +7,7 @@
 
 
 ### Data visualization
-[View or download slides](https://docs.google.com/presentation/d/1NYSMpfr50f7f69EomiUDlBcFOrogYgO5pexAr60dRsQ/edit?usp=sharing)
+[View or download slides](https://docs.google.com/presentation/d/17RjgS7If7B8UFL_sm6MCXlZDubxUFJ-8f7420RARiY8/edit#slide=id.p1)
 
 
 ### Exercise 1 (20 minutes)
