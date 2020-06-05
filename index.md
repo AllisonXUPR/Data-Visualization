@@ -1,37 +1,44 @@
-## Data Visualization
+#### Data Visualization
 
-You can use the [editor on GitHub](https://github.com/AllisonXUPR/Data-Visualization/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Agenda 
 
-### Markdown
+* Introduction to Data visualization
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Data visualization
+[View or download slides](https://docs.google.com/presentation/d/1NYSMpfr50f7f69EomiUDlBcFOrogYgO5pexAr60dRsQ/edit?usp=sharing)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Exercise 1 (20 minutes)
+In this exercise you will select one project listed below and answer several questions.
+- Pedro Cruz, John Wihbey, Avni Ghael, and Felipe Shibuya. [A tree for U.S. immigration](https://web.northeastern.edu/naturalizing-immigration-dataviz/)
+- MIT Senseable City Lab. [Treepedia](http://senseable.mit.edu/treepedia/cities/boston) 
+- Google News Lab and Truth & Beauty. [The Rhythm of Food](http://rhythm-of-food.net/)
 
-1. Numbered
-2. List
+### Questions to Consider
 
-**Bold** and _Italic_ and `Code` text
+- What is the story that the author(s) appear to be trying to convey? 
+- Is the design effective for the story?
+- What is the underlying data source?
+- What goal or research question does this visualization addresses? Is it clear?
+- Is it interactive, if so, how?
+- How was the visualization created? Do you know which software, tools, methods, etc. were used?
+- Is it user-friendly? If not, why and what would you improve?
+- Any other observations?
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Exercise 2 (15 minutes)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AllisonXUPR/Data-Visualization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Consider your own research or pedagogical needs. What type of question(s) or arguments can you make with a spatial visualization? Reflect on these and other questions while drawing or sketching out a dataset, map, or other visualization.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- What type of data source(s) would you need?
+- Would you create your own data or require an existing dataset?
+- What kind of resources might you need access to?
+- What type of visualization would help you answer this question?
+- What kind of visualization tools might you need?
+
+
+
