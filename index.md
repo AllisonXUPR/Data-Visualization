@@ -1,9 +1,9 @@
-#### Data Visualization
-
-
 ### Agenda 
 
 * Introduction to Data visualization
+* Exercise 
+* Introduction to Tableau
+
 
 
 # Data visualization
@@ -14,7 +14,8 @@
 In this exercise you will select one project listed below and answer several questions.
 - Pedro Cruz, John Wihbey, Avni Ghael, and Felipe Shibuya. [A tree for U.S. immigration](https://web.northeastern.edu/naturalizing-immigration-dataviz/)
 - MIT Senseable City Lab. [Treepedia](http://senseable.mit.edu/treepedia/cities/boston) 
-- Google News Lab and Truth & Beauty. [The Rhythm of Food](http://rhythm-of-food.net/)
+- Johns Hopkins Coronavirus Resource Center. [COVID-19 Map](https://coronavirus.jhu.edu/map.html)
+
 
 ### Questions to Consider
 
