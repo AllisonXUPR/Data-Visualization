@@ -32,7 +32,7 @@ In this exercise you will select one project listed below and answer several que
 
 ### Exercise 2 (15 minutes)
 
-Consider your own research or pedagogical needs. What type of question(s) or arguments can you make with a spatial visualization? Reflect on these and other questions while drawing or sketching out a dataset, map, or other visualization.
+Consider your own research or pedagogical needs. What type of question(s) or arguments can you make with a data visualization? Reflect on these and other questions while drawing or sketching out a dataset, map, or other visualization.
 
 
 - What type of data source(s) would you need?
